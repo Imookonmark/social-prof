@@ -24,6 +24,10 @@ body{
     align-items: center;
     margin-top: 50px;
 }
+.map a:hover{
+    background-color:hsl(75, 94%, 57%) ;
+    color: black;
+}
 .avatar{
     width: 80px;
     border-radius: 50px;
